@@ -1,0 +1,35 @@
+html{
+    position: relative;
+}
+
+body{
+    margin-top: 30px;
+}
+
+.jumbotron img{
+    width: 180px;
+    height: 180px;
+    border: 5px solid #999;
+}
+
+hr{
+    width: 250px;
+    border-top: 2px solid #333;
+}
+
+.about p{
+    text-align: justify;
+}
+
+section {
+    min-height: 600px;
+}
+
+.portofolio {
+    background-color: #eee;
+}
+
+.row img{
+    height: 240px;
+    width: 360px;
+}
